@@ -1,11 +1,14 @@
-
+*{
+	background-color :#9C27B0;
+	<--! this color is from https://flatuicolors.com/ -->
+}
 
 
 #website_header {
-	background-color: purple;
+	background-color: white;
 	width:500px;
 	margin:0 auto;
-	color: white ;
+	color: purple ;
 	text-align: center;
 	
 	font-size: 35px;
@@ -16,10 +19,19 @@
 	width:500px;
 	margin:0 auto;
 
-h1{
-	color: white;
-}
-}
-#nheader{
 
+}
+#paragraphe{
+	color : black;
+	background-color:white;;
+	padding : 30px;
+	height: 400px;
+	margin:0 auto;
+	text-align: center;
+}
+#footer{
+	color :white;
+	
+	text-align: center;
+	margin:0 auto;
 }
