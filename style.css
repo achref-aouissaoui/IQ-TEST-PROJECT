@@ -1,14 +1,17 @@
 *{
-	background-color :#9C27B0;
-	<--! this color is from https://flatuicolors.com/ -->
+	background-color :black;
+	color:white;
+	/* this color is from https://flatuicolors.com/ */
 }
 
-
+a{
+	text-decoration: underline:none color: red;
+}
 #website_header {
 	background-color: white;
 	width:500px;
 	margin:0 auto;
-	color: purple ;
+	color: black;
 	text-align: center;
 	
 	font-size: 35px;
@@ -23,7 +26,10 @@
 }
 #paragraphe{
 	color : black;
-	background-color:white;;
+	background-image: url("https://q3p9g6n2.rocketcdn.me/wp-content/ml-loads/2015/10/creative-leader-thinking-ss-1920.jpg");
+	background-size: 400px;
+	background-attachment:fixed;
+	background-color:white;
 	padding : 30px;
 	height: 400px;
 	margin:0 auto;
