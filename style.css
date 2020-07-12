@@ -1,6 +1,9 @@
 *{
-	background-color :black;
+	
 	color:white;
+	text-align: center;
+	font-family: tahoma;
+	background-color: black;
 	/* this color is from https://flatuicolors.com/ */
 }
 
@@ -25,19 +28,22 @@ a{
 
 }
 #paragraphe{
-	color : black;
-	background-image: url("https://q3p9g6n2.rocketcdn.me/wp-content/ml-loads/2015/10/creative-leader-thinking-ss-1920.jpg");
-	background-size: 400px;
-	background-attachment:fixed;
-	background-color:white;
-	padding : 30px;
-	height: 400px;
+	color : white;
+	
+	background-size: 100%;
 	margin:0 auto;
 	text-align: center;
+	width: 70%;
 }
 #footer{
 	color :white;
 	
 	text-align: center;
 	margin:0 auto;
+}
+#sideBar{
+	color:black;
+	background-color:yellow;
+	float:right;
+	width:20%;
 }
