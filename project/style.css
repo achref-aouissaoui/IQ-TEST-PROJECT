@@ -3,7 +3,7 @@
 	color:white;
 	text-align: center;
 	font-family: tahoma;
-	background-color: black;
+	background-color: purple;
 	/* this color is from https://flatuicolors.com/ */
 }
 button{
@@ -16,9 +16,7 @@ button{
 	padding: 10px 10px;
 
 }
-a{
-	text-decoration: underline:none color: red;
-}
+
 #website_header {
 	background-color: white;
 	width:500px;
@@ -28,31 +26,19 @@ a{
 	
 	font-size: 35px;
 	font-family: tahoma;
-	;
+	
 }
-#wrap{
-	width:500px;
-	margin:0 auto;
 
-
-}
 #paragraphe{
 	color : white;
-	
-	background-size: 100%;
+	border-radius: 30px;
+	background-size: 50%;
 	margin:0 auto;
 	text-align: center;
-	width: 70%;
+	width: 100%;
 }
 #footer{
 	color :white;
-	
 	text-align: center;
 	margin:0 auto;
-}
-#sideBar{
-	color:black;
-	background-color:yellow;
-	float:right;
-	width:20%;
 }
