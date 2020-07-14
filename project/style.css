@@ -1,13 +1,13 @@
 *{
 	
-	color:white;
+	color:#f5cd79;
 	text-align: center;
 	font-family: tahoma;
-	background-color: purple;
+	background-color:#b71540;
 	/* this color is from https://flatuicolors.com/ */
 }
 button{
-	background-color: white;
+	background-color: #f5cd79;
 	width: 250px;
 	font-size: 20px;
 	color: black; 
@@ -18,10 +18,10 @@ button{
 }
 
 #website_header {
-	background-color: white;
+	background-color: #f5cd79;
 	width:500px;
 	margin:0 auto;
-	color: black;
+	color: #b71540;
 	text-align: center;
 	
 	font-size: 35px;
@@ -30,7 +30,7 @@ button{
 }
 
 #paragraphe{
-	color : white;
+	color : #f5cd79;
 	border-radius: 30px;
 	background-size: 50%;
 	margin:0 auto;

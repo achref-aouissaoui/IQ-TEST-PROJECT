@@ -4,10 +4,11 @@ $("#page2").hide();
 $("#page3").hide();
 $("#page4").hide();
 $("#page5").hide();
+$("#imgResult").hide();
 	var count=0;
 $(document).ready(function(){
 
-  $("#answer1-1"||"#answer1-2").click(function(){
+  $("#answer1-1").click(function(){
     $("#page1").hide();
      $("#page2").show();
   });
@@ -99,6 +100,10 @@ function result(){
 
 $('#showResult').click(function(){	
 	$("#result").text(result());
+
+     $("#imgResult").show();
+
+  		$("#paragraphe").hide();
 })
 
 
